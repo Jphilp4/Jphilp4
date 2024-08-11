@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jphilp4
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning the CompTIA Network+ certification.
+- 👋 Hi, I’m James.
+- 👀 I’m interested in Information Technology.
+- 🌱 I’m currently learning the CompTIA Network+ certification and working on projects like CI/CD Pipelines and automated scanning.
 - I plan to pursue further certifications, including CompTIA Security+ and GitHub Actions, to enhance my IT and cybersecurity skills.
 - 📫 How to reach me: LinkedIn.
   
