@@ -4,14 +4,14 @@
 ![IMG_0097](https://github.com/user-attachments/assets/2b61550b-777a-4b9a-8e1a-2815a5d9ba65)
 👋 Hi, I’m James.
 
-
-[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)
-
 About Me:
 - 👀 I’m interested in Information Technology.
 - 🌱 I’m currently learning the CompTIA Network+ certification and working on projects like CI/CD Pipelines and automated scanning.
 - I plan to pursue further certifications, including CompTIA Security+ and GitHub Actions, to enhance my IT and cybersecurity skills.
 - 📫 How to reach me: LinkedIn.
+
+[LinkedIn](https://www.linkedin.com/in/james-phillips-028141308/)
+
 
 ## Tech I'm Currently Using
 ![image](https://github.com/user-attachments/assets/355dc4ff-ee08-4af6-853a-41e00f7776c3)
