@@ -2,7 +2,7 @@
 # Hello, world! 👋🌎
 
 <p align="center">
-  <img src=(https://github.com/user-attachments/assets/2b61550b-777a-4b9a-8e1a-2815a5d9ba65) alt="James Phillips" width="150"/>
+  <img src= "https://github.com/user-attachments/assets/2b61550b-777a-4b9a-8e1a-2815a5d9ba65" alt="James Phillips" width="150"/>
 </p>
 
 👋 Hi, I’m James.
