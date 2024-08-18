@@ -24,7 +24,11 @@
 
 ## CodeWars
 ![image](https://github.com/user-attachments/assets/5a2237a6-2438-4bb9-8fe3-c84b33d20e79)
-[CodeWars profile] (https://www.codewars.com/users/Jphilp4)
+
+<a href="https://www.codewars.com/users/Jphilp4">
+  <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Profile"/>
+</a>
+
 
 # Keybase Proof
 
