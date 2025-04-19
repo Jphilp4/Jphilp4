@@ -1,7 +1,10 @@
 # Jphilp4-Jphilp4
 # Hello, world! 👋🌎
 
-![IMG_0097](https://github.com/user-attachments/assets/24b16fda-c2dc-4d95-847b-4959703ae20a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24b16fda-c2dc-4d95-847b-4959703ae20a" alt="IMG_0097" width="400"/>
+</p>
+
 
 
 👋 Hi, I’m James.
