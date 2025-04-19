@@ -1,9 +1,8 @@
 # Jphilp4-Jphilp4
 # Hello, world! 👋🌎
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2b61550b-777a-4b9a-8e1a-2815a5d9ba65" alt="james phillips" width="440"/>
-</p>
+![IMG_0097](https://github.com/user-attachments/assets/24b16fda-c2dc-4d95-847b-4959703ae20a)
+
 
 👋 Hi, I’m James.
 
